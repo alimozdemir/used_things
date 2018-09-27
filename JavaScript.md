@@ -5,7 +5,7 @@
 
 ## Electron
 * version 3.0.0
-* electron-vue
+* electron-settings
 
 ## Vue
 * version ^2.5.16
@@ -13,9 +13,16 @@
 * vue-router
 * bootstrap-vue
 * vue-i18n
+* vue-js-modal
+* vue2-animate
+* vue-electron
+* vue-fontawesome
 
 ## Others
 
 * axios
 * moxios (for mocking requests)
 * mongodb
+* bootstrap
+* eslint (with eslint-config-standard)
+* config
