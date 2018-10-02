@@ -17,6 +17,7 @@
 * vue2-animate
 * vue-electron
 * vue-fontawesome
+* vue-snotify
 
 ## Others
 
@@ -26,3 +27,4 @@
 * bootstrap
 * eslint (with eslint-config-standard)
 * config
+* build-url
