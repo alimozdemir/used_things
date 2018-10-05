@@ -28,3 +28,10 @@
 * eslint (with eslint-config-standard)
 * config
 * build-url
+* jwt-decode
+* webpack and webpack hmr
+
+
+Notes
+```I have developed OAuth authantication for electron-vue```
+
