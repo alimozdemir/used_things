@@ -19,6 +19,12 @@
 * vue-fontawesome
 * vue-snotify
 
+## Angular
+* version 6
+* Angular/Material
+* ng4-loading-spinner
+* angular-tree-component
+
 ## Others
 
 * axios
@@ -30,7 +36,7 @@
 * build-url
 * jwt-decode
 * webpack and webpack hmr
-
+* lodash
 
 Notes
 ```I have developed OAuth authantication for electron-vue```
