@@ -41,5 +41,6 @@
 * chai
 
 Notes
-```I have developed OAuth authantication for electron-vue```
+
+```I have developed OAuth authentication for electron-vue```
 
