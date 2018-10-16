@@ -37,6 +37,8 @@
 * jwt-decode
 * webpack and webpack hmr
 * lodash
+* mocha
+* chai
 
 Notes
 ```I have developed OAuth authantication for electron-vue```
