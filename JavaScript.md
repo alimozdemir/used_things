@@ -24,6 +24,7 @@
 * Angular/Material
 * ng4-loading-spinner
 * angular-tree-component
+* ngx-color-picker
 
 ## Others
 
