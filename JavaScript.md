@@ -25,10 +25,15 @@
 * ng4-loading-spinner
 * angular-tree-component
 * ngx-color-picker
+* ngx-virtual-scroller
+* devextreme-angular
+* * TileView, TabPanel, Gallery, Box, SelectBox, Switch
 * Hot Module Replacement implementation
+
 
 ## Others
 
+* devextreme
 * axios
 * moxios (for mocking requests)
 * mongodb
